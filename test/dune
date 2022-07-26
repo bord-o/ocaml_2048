@@ -1,0 +1,3 @@
+(test
+ (name game_tests)
+ (libraries ounit2 ocaml_2048))
